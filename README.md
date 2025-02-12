@@ -18,6 +18,7 @@ I completed an AI risk assessment, where I developed a hypothetical AI-powered h
 
 - About HealthAI Diagnostics
 - Purpose and Functionality of the AI System
+- Applying the NIST AI Risk Management Framework (AI RMF)
 
 ## About HealthAI Diagnostics
 
@@ -26,3 +27,10 @@ HealthAI Diagnostics is a healthcare technology company that develops an AI-powe
 ## Purpose and Functionality of the AI System
 
 The purpose of DiagnoAI is to improve diagnostic accuracy, reduce human error, and enhance patient outcomes by providing healthcare professionals with AI-driven insights. The system is designed to:
+
+1. Analyze large datasets of patient information to identify patterns and correlations.
+2. Provide real-time diagnostic recommendations based on evidence-based medicine.
+3. Continuously learn from new data to improve its accuracy and reliability.
+4. Assist in early detection of diseases, such as cancer, cardiovascular conditions, and rare genetic disorders.
+
+## Applying the NIST AI Risk Management Framework (AI RMF)
