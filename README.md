@@ -16,8 +16,8 @@ I completed an AI risk assessment, where I developed a hypothetical AI-powered h
 
 ## Table of Contents
 
-About HealthAI Diagnostics
-Purpose and Functionality of the AI System
+- About HealthAI Diagnostics
+- Purpose and Functionality of the AI System
 
 ## About HealthAI Diagnostics
 
